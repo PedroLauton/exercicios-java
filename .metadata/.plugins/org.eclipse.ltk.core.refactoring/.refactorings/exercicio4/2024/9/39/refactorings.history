@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;OrderStatus.java&apos; to &apos;exercicio4/src/entidades.enums&apos;&#x0D;&#x0A;- Original project: &apos;exercicio4&apos;&#x0D;&#x0A;- Destination element: &apos;exercicio4/src/entidades.enums&apos;&#x0D;&#x0A;- Original element: &apos;entidades.OrderStatus.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;entidades.enums" element1="/src&lt;entidades{OrderStatus.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1727106158406" units="1" version="1.0"/>
+</session>

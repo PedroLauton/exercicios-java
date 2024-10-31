@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;entities.UsedProducts&apos; to &apos;UsedProduct&apos;&#x0D;&#x0A;- Original project: &apos;exercicio8&apos;&#x0D;&#x0A;- Original element: &apos;entities.UsedProducts&apos;&#x0D;&#x0A;- Renamed element: &apos;entities.UsedProduct&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UsedProducts&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;entities{UsedProducts.java[UsedProducts" matchStrategy="1" name="UsedProduct" qualified="false" references="true" similarDeclarations="false" stamp="1727378565640" textual="false" version="1.0"/>
+</session>
